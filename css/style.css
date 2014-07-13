@@ -1999,3 +1999,16 @@ article img.pull-right, article .align-right {
 @media (max-width: 360px) {
 
 }
+
+/* custom */
+.block-heading {
+    color: #A71919;
+}
+
+.justified {
+    text-align: justify;
+}
+
+body {
+    color: #000000;
+}
