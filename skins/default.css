@@ -222,3 +222,11 @@ footer{
 	background:#A71919;
 }
 
+/* custom */
+.block-heading{
+    color:#A71919;
+}
+
+.justified {
+    text-align: justify;
+}
